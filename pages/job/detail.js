@@ -54,7 +54,7 @@ export default function JobDetail(props) {
                 width={300}
                 height={200}
                 src={job.company_logo}
-                fallbackSrc='/codeid.png'
+                fallbackSrc='/nologo.png'
                 className='px-4 pb-3'
               /> 
             }
